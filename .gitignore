@@ -1,0 +1,11 @@
+# Archivos temporales de sistema o editores
+.DS_Store
+Thumbs.db
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# Git
+.git/
